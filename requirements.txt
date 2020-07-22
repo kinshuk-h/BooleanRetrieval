@@ -1,0 +1,5 @@
+nltk==3.5
+pdfminer==20191125
+python-docx==0.8.10
+regex==2020.7.14
+sortedcontainers==2.2.2
